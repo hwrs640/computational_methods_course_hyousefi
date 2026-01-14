@@ -1,0 +1,42 @@
+# Book settings
+title: Computational Methods for Earth Sciences
+author: Bennett Hydro Lab
+logo: ""
+copyright: "2026"
+
+# Force re-execution of notebooks on each build.
+execute:
+  execute_notebooks: cache
+  timeout: 300
+
+# Define the name of the latex output file for PDF builds
+latex:
+  latex_documents:
+    targetname: book.tex
+
+# Add a bibtex file so that we can create citations
+bibtex_bibfiles:
+  - references.bib
+
+# Information about where the book exists on the web
+repository:
+  url: https://github.com/BennettHydroLab/computational_methods_course
+  path_to_book: .
+  branch: main
+
+# Add GitHub buttons to your book
+html:
+  use_issues_button: true
+  use_repository_button: true
+  use_edit_page_button: true
+  home_page_in_navbar: true
+  baseurl: https://BennettHydroLab.github.io/computational_methods_course/
+
+# Sphinx configuration
+sphinx:
+  config:
+    html_theme_options:
+      repository_url: https://github.com/BennettHydroLab/computational_methods_course
+      use_repository_button: true
+      use_edit_page_button: true
+      use_issues_button: true
