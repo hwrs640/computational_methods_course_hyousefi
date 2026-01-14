@@ -1,7 +1,6 @@
 # Book settings
 title: Computational Methods for Earth Sciences
 author: Bennett Hydro Lab
-logo: ""
 copyright: "2026"
 
 # Force re-execution of notebooks on each build.
@@ -31,12 +30,3 @@ html:
   use_edit_page_button: true
   home_page_in_navbar: true
   baseurl: https://BennettHydroLab.github.io/computational_methods_course/
-
-# Sphinx configuration
-sphinx:
-  config:
-    html_theme_options:
-      repository_url: https://github.com/BennettHydroLab/computational_methods_course
-      use_repository_button: true
-      use_edit_page_button: true
-      use_issues_button: true
