@@ -1,0 +1,16 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+  - file: notebooks/index
+    title: Notebooks
+  - file: slides/index
+    title: Slides
+  - file: resources/index
+    title: Resources
+  - file: data/index
+    title: Data
+  - file: extras/index
+    title: Extra Materials
