@@ -64,7 +64,3 @@ The JupyterBook is automatically built and deployed to GitHub Pages when changes
 ## 📄 License
 
 This course material is provided for educational purposes.
-
-## 👥 Maintainers
-
-This course is maintained by the Bennett Hydro Lab.
