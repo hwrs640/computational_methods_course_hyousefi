@@ -1,6 +1,6 @@
-# Computational Methods for Earth Sciences
+# Computational Methods for Data Driven Earth Sciences
 
-This repository hosts course materials for a graduate-level course on computational methods for earth sciences, deployed as a JupyterBook to GitHub Pages.
+This repository hosts course materials for a course on computational methods for earth sciences. The course is taught as HWRS640 at the University of Arizona by Dr. Andrew Bennett, but materials are free for all to use to learn, adapt, and remix.
 
 ## 📚 Course Website
 
