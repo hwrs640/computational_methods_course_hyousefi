@@ -1,0 +1,36 @@
+# HWRS640 - Assignment 1: Computer architecture and parallel computing
+
+## Due date: Friday, February 6th at 11:59 PM
+
+## Problem 1: Supercomputer architecture (25 points)
+
+The top 500 supercomputers in the world are ranked based on their performance on the LINPACK benchmark, which measures a system's floating-point computing power. Visit the [Top500 website](https://www.top500.org/lists/top500/) and select one of the top 50 supercomputers. Write a short report (~0.5-1 page) that includes the following information:
+
+1. The name and location of the supercomputer.
+2. The architecture of the supercomputer (e.g., CPU type, number of cores, memory, interconnect).
+3. The peak performance of the supercomputer in FLOPS (floating-point operations per second).
+4. A brief discussion of the applications or research areas that benefit from this supercomputer's capabilities.
+
+## Problem 2: Moore's Law and Linear Regression (25 points)
+Moore's Law states that the number of transistors on a microchip doubles approximately every two years, leading to an exponential increase in computing power. Using the provided historical data, given in `computational_methods_course/data/moores.csv`, perform the following tasks:
+
+1. Load the data into a pandas DataFrame.
+2. Use linear regression to model the relationship between the year and the number of transistors.
+3. Plot the original data points and the fitted regression line.
+4. Compute the doubling time of transistors based on your regression model, and compare it to the commonly cited value of two years.
+5 (for fun). Compute the same regression for the first 10 years of the data and the last 10 years of the data. Has the doubling time changed over the history of computing?
+
+## Problem 3: Row vs column order data access (25 points)
+In this problem, you will explore the performance differences between row-major and column-major data access patterns using NumPy arrays. Perform the following tasks:
+
+1. Create a large 2D NumPy array (e.g., 10,000 x 10,000) filled with random numbers from a distribution of your choosing.
+2. Implement two functions to compute the sum of all elements in the array using python loops:
+   - One function that accesses the array in row-major order.
+   - Another function that accesses the array in column-major order.
+3. Measure and compare the execution time of both functions using the `time` module or `timeit` library. Make sure to repeat the measurements multiple times (at least 30) to get an average execution time.
+4. Compare the performance results to using built in NumPy functions for summing the array. Explain the differences in performance you observe, using concepts such as cache locality and memory access patterns.
+
+## Problem 4: Scaling and parallel computing (25 points)
+
+
+
