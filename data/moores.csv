@@ -1,0 +1,513 @@
+# Original source data from: https://www.kaggle.com/datasets/maryanalyze/tables-on-transistor-count-wikipedia-page/data
+Name,Transistor Count,Year,Manufacturer,Process,Area,Source File
+Transistor Computer,92,1953,University of Manchester,,,Transistor_count_8.csv
+TRADIC,700,1954,Bell Labs,,,Transistor_count_8.csv
+Transistor Computer (full size),250,1955,University of Manchester,,,Transistor_count_8.csv
+IBM 608,3000,1955,IBM,,,Transistor_count_8.csv
+ETL Mark III,130,1956,Electrotechnical Laboratory,,,Transistor_count_8.csv
+Metrovick 950,200,1956,Metropolitan-Vickers,,,Transistor_count_8.csv
+IBM 7070,30000,1958,IBM,,,Transistor_count_8.csv
+NEC NEAC-2201,600,1958,NEC,,,Transistor_count_8.csv
+Hitachi MARS-1,1000,1958,Hitachi,,,Transistor_count_8.csv
+PDP-1,2700,1959,Digital Equipment Corporation,,,Transistor_count_8.csv
+IBM 7090,50000,1959,IBM,,,Transistor_count_8.csv
+Toshiba TOSBAC-2100,5000,1959,Toshiba,,,Transistor_count_8.csv
+Matsushita MADIC-I,400,1959,Matsushita,,,Transistor_count_8.csv
+NEC NEAC-2203,2579,1959,NEC,,,Transistor_count_8.csv
+M18 FADAC,1600,1960,Autonetics,,,Transistor_count_8.csv
+Mitsubishi MELCOM 1101,3500,1960,Mitsubishi,,,Transistor_count_8.csv
+CPU of IBM 7030 Stretch,169100,1961,IBM,,,Transistor_count_8.csv
+D-17B,1521,1962,Autonetics,,,Transistor_count_8.csv
+—,6,1963,Fairchild,—,—,Transistor_count_5.csv
+NEC NEAC-L2,16000,1964,NEC,,,Transistor_count_8.csv
+CDC 6600 (entire computer),400000,1964,Control Data Corporation,,,Transistor_count_8.csv
+"PDP-8 ""Straight-8""",1409,1965,Digital Equipment Corporation,,,Transistor_count_8.csv
+—,1,1965,Toshiba,—,—,Transistor_count_5.csv
+?,1024,1965,General Microelectronics,?,?,Transistor_count_7.csv
+?,48,1965,"SDS, Signetics",?,?,Transistor_count_5.csv
+SP95,80,1965,IBM,?,?,Transistor_count_5.csv
+TMC3162,96,1966,Transitron,—,?,Transistor_count_5.csv
+Apollo Guidance Computer Block I,12300,1966,Raytheon / MIT Instrumentation Laboratory,,,Transistor_count_8.csv
+PDP-8/S,1001,1966,Digital Equipment Corporation,,,Transistor_count_8.csv
+PDP-8/I,1409,1968,Digital Equipment Corporation,,,Transistor_count_8.csv
+?,864,1968,NEC,?,?,Transistor_count_5.csv
+?,384,1968,Fairchild,?,?,Transistor_count_5.csv
+?,256,1968,Fairchild,?,?,Transistor_count_5.csv
+3301,1024,1969,Intel,—,?,Transistor_count_7.csv
+1101,1536,1969,Intel,"12,000 nm",?,Transistor_count_5.csv
+1103,3072,1970,Intel,"8,000 nm",10 mm2,Transistor_count_5.csv
+1102,3072,1970,"Intel, Honeywell",?,?,Transistor_count_5.csv
+"MP944 (20-bit, 6-chip, 28 chips total)",744425360,1970,Garrett AiResearch,?,?,Transistor_count_2.csv
+"TMX 1795 (?-bit, 24-pin)",3078,1971,Texas Instruments,?,30.64 mm2,Transistor_count_2.csv
+"Intel 4004 (4-bit, 16-pin)",2250,1971,Intel,"10,000 nm",12 mm2,Transistor_count_2.csv
+1702,2048,1971,Intel,?,15 mm2,Transistor_count_7.csv
+μPD403,3072,1971,NEC,?,?,Transistor_count_5.csv
+?,6144,1971,General Instrument,?,12.7 mm2,Transistor_count_5.csv
+2102,6144,1972,Intel,?,?,Transistor_count_5.csv
+"Intel 8008 (8-bit, 18-pin)",3500,1972,Intel,"10,000 nm",14 mm2,Transistor_count_2.csv
+?,8192,1973,IBM,?,18.8 mm2,Transistor_count_5.csv
+Toshiba TLCS-12 (12-bit),11000,1973,Toshiba,"6,000 nm",32 mm2,Transistor_count_2.csv
+"NEC μCOM-4 (4-bit, 42-pin)",2500,1973,NEC,"7,500 nm",?,Transistor_count_2.csv
+"Motorola 6800 (8-bit, 40-pin)",4100,1974,Motorola,"6,000 nm",16 mm2,Transistor_count_2.csv
+"Intel 4040 (4-bit, 16-pin)",3000,1974,Intel,"10,000 nm",12 mm2,Transistor_count_2.csv
+?,4096,1974,"AMD, General Instrument",?,?,Transistor_count_7.csv
+"TMS 1000 (4-bit, 28-pin)",8000,1974,Texas Instruments,"8,000 nm",11 mm2,Transistor_count_2.csv
+5101,6144,1974,Intel,?,?,Transistor_count_5.csv
+"Intel 8080 (8-bit, 40-pin)",6000,1974,Intel,"6,000 nm",20 mm2,Transistor_count_2.csv
+2116,16384,1975,Intel,?,?,Transistor_count_5.csv
+2708,8192,1975,Intel,?,?,Transistor_count_7.csv
+"MOS Technology 6502 (8-bit, 40-pin)",4528,1975,MOS Technology,"8,000 nm",21 mm2,Transistor_count_2.csv
+"CDP 1801 (8-bit, 2-chip, 40-pin)",5000,1975,RCA,?,?,Transistor_count_2.csv
+"Intersil IM6100 (12-bit, 40-pin; clone of PDP-8)",4000,1975,Intersil,?,?,Transistor_count_2.csv
+TMS9900 (16-bit),8000,1976,Texas Instruments,?,?,Transistor_count_2.csv
+"Intel 8085 (8-bit, 40-pin)",6500,1976,Intel,"3,000 nm",20 mm2,Transistor_count_2.csv
+"Zilog Z80 (8-bit, 4-bit ALU, 40-pin)",8500,1976,Zilog,"4,000 nm",18 mm2,Transistor_count_2.csv
+?,2048,1976,Toshiba,?,?,Transistor_count_7.csv
+2114,24576,1976,Intel,?,?,Transistor_count_5.csv
+"RCA 1802 (8-bit, 40-pin)",5000,1976,RCA,"5,000 nm",27 mm2,Transistor_count_2.csv
+Bellmac-8 (8-bit),7000,1977,Bell Labs,"5,000 nm",?,Transistor_count_2.csv
+µCOM-43 ROM,16000,1977,NEC,?,?,Transistor_count_7.csv
+?,24576,1977,Toshiba,?,?,Transistor_count_5.csv
+2716,16384,1977,Intel,—,?,Transistor_count_7.csv
+?,65536,1977,NTT,?,35.4 mm2,Transistor_count_5.csv
+"Motorola 6809 (8-bit with some 16-bit features, 40-pin)",9000,1978,Motorola,"5,000 nm",21 mm2,Transistor_count_2.csv
+"Intel 8086 (16-bit, 40-pin)",29000,1978,Intel,"3,000 nm",33 mm2,Transistor_count_2.csv
+2732,32768,1978,Intel,?,?,Transistor_count_7.csv
+2364,65536,1978,Intel,?,?,Transistor_count_7.csv
+EA8316F,16384,1978,Electronic Arrays,?,436 mm2,Transistor_count_7.csv
+"Intel 8088 (16-bit, 8-bit data bus)",29000,1979,Intel,"3,000 nm",33 mm2,Transistor_count_2.csv
+?,65536,1979,Siemens,?,25.2 mm2,Transistor_count_5.csv
+Zilog Z8000 (16-bit),17500,1979,Zilog,?,?,Transistor_count_2.csv
+"Motorola 68000 (16/32-bit, 32-bit registers, 16-bit  ALU)",68000,1979,Motorola,"3,500 nm",44 mm2,Transistor_count_2.csv
+"Intel 8051 (8-bit, 40-pin)",50000,1980,Intel,?,?,Transistor_count_2.csv
+?,393216,1980,Matsushita,?,?,Transistor_count_5.csv
+?,262144,1980,NEC,"1,500 nm",41.6 mm2,Transistor_count_5.csv
+?,98304,1980,"Hitachi, Toshiba",?,?,Transistor_count_5.csv
+?,294912,1981,IBM,?,25 mm2,Transistor_count_5.csv
+2764,65536,1981,Intel,"3,500 nm",?,Transistor_count_7.csv
+WDC 65C02,11500,1981,WDC,"3,000 nm",6 mm2,Transistor_count_2.csv
+ROMP (32-bit),45000,1981,IBM,"2,000 nm",?,Transistor_count_2.csv
+µPD7220 GDC,40000,1982,NEC,"5,000 nm",?,Transistor_count_3.csv
+?,393216,1982,Intel,"1,500 nm",?,Transistor_count_5.csv
+"Intel 80286 (16-bit, 68-pin)",134000,1982,Intel,"1,500 nm",49 mm2,Transistor_count_2.csv
+27128,131072,1982,Intel,?,?,Transistor_count_7.csv
+"Intel 80186 (16-bit, 68-pin)",55000,1982,Intel,"3,000 nm",60 mm2,Transistor_count_2.csv
+WDC 65C816 (8/16-bit),22000,1983,WDC,"3,000 nm",9 mm2,Transistor_count_2.csv
+27256,262144,1983,Intel,?,?,Transistor_count_7.csv
+?,262144,1983,Fujitsu,?,?,Transistor_count_7.csv
+?,8388608,1984,Hitachi,?,?,Transistor_count_5.csv
+ARTC HD63484,60000,1984,Hitachi,?,?,Transistor_count_3.csv
+?,1048576,1984,NEC,"1,200 nm",?,Transistor_count_7.csv
+27512,524288,1984,Intel,?,?,Transistor_count_7.csv
+Motorola 68020 (32-bit; 114 pins used),190000,1984,Motorola,"2,000 nm",85 mm2,Transistor_count_2.csv
+NEC V20,63000,1984,NEC,?,?,Transistor_count_2.csv
+?,524288,1984,AMD,"1,700 nm",?,Transistor_count_7.csv
+?,1572864,1984,Toshiba,"1,200 nm",?,Transistor_count_5.csv
+CBM Agnus,21000,1985,Commodore,"5,000 nm",?,Transistor_count_3.csv
+Novix NC4016 (16-bit),16000,1985,Harris Corporation,"3,000 nm",?,Transistor_count_2.csv
+ARM 1 (32-bit; no cache),25000,1985,Acorn,"3,000 nm",50 mm2,Transistor_count_2.csv
+?,262144,1985,Toshiba,"2,000 nm",?,Transistor_count_6.csv
+"Intel 80386 (32-bit, 132-pin; no cache)",275000,1985,Intel,"1,500 nm",104 mm2,Transistor_count_2.csv
+Z80000 (32-bit; very small cache),91000,1986,Zilog,?,?,Transistor_count_2.csv
+"ARM 2 (32-bit, 84-pin; no cache)",27000,1986,Acorn,"2,000 nm",30.25 mm2,Transistor_count_2.csv
+NEC V60 (32-bit; no cache),375000,1986,NEC,"1,500 nm",?,Transistor_count_2.csv
+SPARC MB86900 (32-bit; no cache),110000,1986,Fujitsu,"1,200 nm",?,Transistor_count_2.csv
+Hitachi Gmicro/200,730000,1987,Hitachi,"1,000 nm",?,Transistor_count_2.csv
+NEC V70 (32-bit; no cache),385000,1987,NEC,"1,500 nm",?,Transistor_count_2.csv
+TI Explorer's 32-bit Lisp machine chip,553000,1987,Texas Instruments,"2,000 nm",?,Transistor_count_2.csv
+"Motorola 68030 (32-bit, very small caches)",273000,1987,Motorola,800 nm,102 mm2,Transistor_count_2.csv
+?,16777216,1987,NTT,700 nm,148 mm2,Transistor_count_5.csv
+?,4194304,1987,Toshiba,800 nm,?,Transistor_count_7.csv
+"Intel i960 (32-bit, 33-bit memory subsystem, no cache)",250000,1988,Intel,"1,500 nm",?,Transistor_count_2.csv
+DEC WRL MultiTitan,180000,1988,DEC WRL,"1,500 nm",61 mm2,Transistor_count_2.csv
+YM7101 VDP,100000,1988,"Yamaha, Sega",?,?,Transistor_count_3.csv
+"Intel 80486 (32-bit, 4 KB cache)",1180235,1989,Intel,"1,000 nm",173 mm2,Transistor_count_2.csv
+"ARM 3 (32-bit, 4 KB cache)",310000,1989,Acorn,"1,500 nm",87 mm2,Transistor_count_2.csv
+"Intel i860 (32/64-bit, 128-bit SIMD, cache, VLIW)",1000000,1989,Intel,?,?,Transistor_count_2.csv
+?,1048576,1989,"Seeq, Intel",?,?,Transistor_count_6.csv
+?,4194304,1989,Toshiba,"1,000 nm",?,Transistor_count_6.csv
+"Intel i960CA (32-bit, cache)",600000,1989,Intel,800 nm,143 mm2,Transistor_count_2.csv
+"POWER1 (9-chip module, 72 kB of cache)",6900000,1990,IBM,"1,000 nm","1,283.61 mm2",Transistor_count_2.csv
+"Motorola 68040 (32-bit, 8 KB caches)",1200000,1990,Motorola,650 nm,152 mm2,Transistor_count_2.csv
+?,16777216,1990,NEC,600 nm,?,Transistor_count_7.csv
+?,25165824,1990,"NEC, Toshiba, Hitachi, Mitsubishi",?,?,Transistor_count_5.csv
+"ARM 6 (32-bit, no cache for this 60 variant)",35000,1991,ARM,800 nm,?,Transistor_count_2.csv
+"R4000 (64-bit, 16 KB of caches)",1350000,1991,MIPS,"1,000 nm",213 mm2,Transistor_count_2.csv
+?,16777216,1991,Mitsubishi,600 nm,?,Transistor_count_6.csv
+?,67108864,1991,"Matsushita, Mitsubishi, Fujitsu, Toshiba",400 nm,?,Transistor_count_5.csv
+"Intel i960CF (32-bit, cache)",900000,1992,Intel,?,125 mm2,Transistor_count_2.csv
+"DEC Alpha 21064 (64-bit, 290-pin; 16 KB of caches)",1680000,1992,DEC,750 nm,233.52 mm2,Transistor_count_2.csv
+KM48SL2000,16777216,1992,Samsung,?,?,Transistor_count_5.csv
+?,100663296,1992,"Fujitsu, NEC",400 nm,?,Transistor_count_5.csv
+"Hitachi SH-1 (32-bit, no cache)",600000,1992,Hitachi,800 nm,100 mm2,Transistor_count_2.csv
+"POWER2 (8-chip module, 288 kB of cache)",23037000,1993,IBM,720 nm,"1,217.39 mm2",Transistor_count_2.csv
+?,268435456,1993,"Hitachi, NEC",250 nm,?,Transistor_count_5.csv
+"Pentium (32-bit, 16 KB of caches)",3100000,1993,Intel,800 nm,294 mm2,Transistor_count_2.csv
+"Hitachi HARP-1 (32-bit, cache)",2800000,1993,Hitachi,500 nm,267 mm2,Transistor_count_2.csv
+DD28F032SA,33554432,1993,Intel,?,280 mm2,Transistor_count_6.csv
+Tom & Jerry,750000,1993,Flare,?,?,Transistor_count_3.csv
+"PowerPC 603 (32-bit, 16 KB of caches)",1600000,1994,Apple/IBM/Motorola,500 nm,84.76 mm2,Transistor_count_2.csv
+?,67108864,1994,NEC,400 nm,?,Transistor_count_6.csv
+ARM700 (32-bit; 8 KB cache),578977,1994,ARM,700 nm,68.51 mm2,Transistor_count_2.csv
+Sony GPU,1000000,1994,Toshiba,500 nm,?,Transistor_count_3.csv
+VDP1,1000000,1994,Sega,500 nm,?,Transistor_count_3.csv
+"MuP21 (21-bit, 40-pin; includes video)",7000,1994,Offete Enterprises,"1,200 nm",?,Transistor_count_2.csv
+"Motorola 68060 (32-bit, 16 KB of caches)",2500000,1994,Motorola,600 nm,218 mm2,Transistor_count_2.csv
+"PowerPC 601 (32-bit, 32 KB of caches)",2800000,1994,Apple/IBM/Motorola,600 nm,121 mm2,Transistor_count_2.csv
+"PA-8000 64-bit, no cache",3800000,1995,HP,500 nm,337.69 mm2,Transistor_count_2.csv
+NV1,1000000,1995,"Nvidia, Sega",500 nm,90 mm2,Transistor_count_3.csv
+"Alpha 21164 EV5 (64-bit, 112 kB cache)",9300000,1995,DEC,500 nm,298.65 mm2,Transistor_count_2.csv
+"SA-110 (32-bit, 32 KB of caches)",2500000,1995,Acorn/DEC/Apple,350 nm,50 mm2,Transistor_count_2.csv
+"Pentium Pro (32-bit, 16 KB of caches; L2 cache on-package, but on separate die)",5500000,1995,Intel,500 nm,307 mm2,Transistor_count_2.csv
+?,16777216,1995,"AKM, Hitachi",?,?,Transistor_count_7.csv
+?,1073741824,1995,NEC,250 nm,?,Transistor_count_5.csv
+"PowerPC 603e (32-bit, 32 KB of caches)",2600000,1995,Apple/IBM/Motorola,500 nm,98 mm2,Transistor_count_2.csv
+Voodoo Graphics,1000000,1996,3dfx,500 nm,?,Transistor_count_3.csv
+?,67108864,1996,Hitachi,400 nm,?,Transistor_count_6.csv
+?,134217728,1996,"Samsung, Hitachi",?,?,Transistor_count_6.csv
+Reality Coprocessor,2600000,1996,SGI,350 nm,81 mm2,Transistor_count_3.csv
+PowerVR,1200000,1996,VideoLogic,350 nm,?,Transistor_count_3.csv
+"AMD K5 (32-bit, caches)",4300000,1996,AMD,500 nm,251 mm2,Transistor_count_2.csv
+"Alpha 21164A EV56 (64-bit, 112 kB cache)",9660000,1996,DEC,350 nm,208.8 mm2,Transistor_count_2.csv
+?,1073741824,1996,Mitsubishi,150 nm,?,Transistor_count_5.csv
+"Pentium II Klamath (32-bit, 64-bit SIMD, caches)",7500000,1997,Intel,350 nm,195 mm2,Transistor_count_2.csv
+"AMD K6 (32-bit, caches)",8800000,1997,AMD,350 nm,162 mm2,Transistor_count_2.csv
+F21 (21-bit; includes e.g. video),15000,1997,Offete Enterprises,?,?,Transistor_count_2.csv
+NV3,3500000,1997,Nvidia,350 nm,90 mm2,Transistor_count_3.csv
+Voodoo Rush,1000000,1997,3dfx,500 nm,?,Transistor_count_3.csv
+?,1073741824,1997,Hyundai,?,?,Transistor_count_5.csv
+,70000000,1997,Xilinx,,,Transistor_count_4.csv
+"Hitachi SH-4 (32-bit, caches)",10000000,1997,Hitachi,200 nm,42 mm2,Transistor_count_2.csv
+"AVR (8-bit, 40-pin; w/memory)",14000048000,1997,Nordic VLSI/Atmel,?,?,Transistor_count_2.csv
+Voodoo 2,4000000,1998,3dfx,350 nm,?,Transistor_count_3.csv
+i740,3500000,1998,"Intel, Real3D",350 nm,?,Transistor_count_3.csv
+Voodoo Rush,4000000,1998,3dfx,350 nm,?,Transistor_count_3.csv
+PowerVR2 CLX2,10000000,1998,VideoLogic,250 nm,116 mm2,Transistor_count_3.csv
+,200000000,1998,Xilinx,,,Transistor_count_4.csv
+NV4,7000000,1998,Nvidia,350 nm,90 mm2,Transistor_count_3.csv
+"Alpha 21164PC PCA57 (64-bit, 48 kB cache)",5700000,1998,Samsung,280 nm,100.5 mm2,Transistor_count_2.csv
+Alpha 21264 EV6 (64-bit),15200000,1998,DEC,350 nm,313.96 mm2,Transistor_count_2.csv
+"Pentium II Deschutes (32-bit, large cache)",7500000,1998,Intel,250 nm,113 mm2,Transistor_count_2.csv
+?,4294967296,1998,Hyundai,?,?,Transistor_count_5.csv
+"AMD K7 (32-bit, caches)",22000000,1999,AMD,250 nm,184 mm2,Transistor_count_2.csv
+?,268435456,1999,"Hitachi, Toshiba",250 nm,?,Transistor_count_6.csv
+"AMD K6-III (32-bit, caches)",21300000,1999,AMD,250 nm,118 mm2,Transistor_count_2.csv
+Rage 128,8000000,1999,ATI,250 nm,70 mm2,Transistor_count_3.csv
+Voodoo 3,8100000,1999,3dfx,250 nm,?,Transistor_count_3.csv
+Graphics Synthesizer,43000000,1999,"Sony, Toshiba",180 nm,279 mm2,Transistor_count_3.csv
+NV5,15000000,1999,Nvidia,250 nm,90 mm2,Transistor_count_3.csv
+NV10,17000000,1999,Nvidia,220 nm,111 mm2,Transistor_count_3.csv
+"Pentium II Mobile Dixon (32-bit, caches)",27400000,1999,Intel,180 nm,180 mm2,Transistor_count_2.csv
+"ARM 9TDMI (32-bit, no cache)",111000,1999,Acorn,350 nm,4.8 mm2,Transistor_count_2.csv
+PowerVR2 PMX1,6000000,1999,VideoLogic,250 nm,?,Transistor_count_3.csv
+"Emotion Engine (64-bit, 128-bit SIMD, cache)",13500000,1999,Sony/Toshiba,180 nm,240 mm2,Transistor_count_2.csv
+"Pentium III Katmai (32-bit, 128-bit SIMD, caches)",9500000,1999,Intel,250 nm,128 mm2,Transistor_count_2.csv
+?,536870912,2000,Toshiba,?,?,Transistor_count_6.csv
+R100,30000000,2000,ATI,180 nm,97 mm2,Transistor_count_3.csv
+Voodoo 5,28000000,2000,3dfx,220 nm,?,Transistor_count_3.csv
+Voodoo 4,14000000,2000,3dfx,220 nm,?,Transistor_count_3.csv
+NV11,20000000,2000,Nvidia,180 nm,65 mm2,Transistor_count_3.csv
+,350000000,2000,Xilinx,130 nm,,Transistor_count_4.csv
+NV15,25000000,2000,Nvidia,180 nm,81 mm2,Transistor_count_3.csv
+Flipper,51000000,2000,ArtX,180 nm,106 mm2,Transistor_count_3.csv
+"Gekko (32-bit, large cache)",21000000,2000,IBM/Nintendo,180 nm,43 mm2,Transistor_count_2.csv
+"Pentium III Coppermine (32-bit, large cache)",21000000,2000,Intel,180 nm,80 mm2,Transistor_count_2.csv
+"Pentium 4 Willamette (32-bit, large cache)",42000000,2000,Intel,180 nm,217 mm2,Transistor_count_2.csv
+PowerVR3 KYRO,14000000,2001,Imagination,250 nm,?,Transistor_count_3.csv
+PowerVR3 KYRO II,15000000,2001,Imagination,180 nm,?,Transistor_count_3.csv
+R200,60000000,2001,ATI,150 nm,68 mm2,Transistor_count_3.csv
+?,536870912,2001,Samsung,?,?,Transistor_count_6.csv
+NV2A,60000000,2001,Nvidia,150 nm,?,Transistor_count_3.csv
+NV20,57000000,2001,Nvidia,150 nm,128 mm2,Transistor_count_3.csv
+"SPARC64 V (64-bit, large cache)",191000000,2001,Fujitsu,130 nm,290 mm2,Transistor_count_2.csv
+"Pentium III Tualatin (32-bit, large cache)",45000000,2001,Intel,130 nm,81 mm2,Transistor_count_2.csv
+?,2147483648,2002,"Samsung, Toshiba",?,?,Transistor_count_6.csv
+NV25,63000000,2002,Nvidia,150 nm,142 mm2,Transistor_count_3.csv
+NV28,36000000,2002,Nvidia,150 nm,101 mm2,Transistor_count_3.csv
+NV17/18,29000000,2002,Nvidia,150 nm,65 mm2,Transistor_count_3.csv
+,430000000,2002,Xilinx,,,Transistor_count_4.csv
+"Pentium 4 Northwood (32-bit, large cache)",55000000,2002,Intel,130 nm,145 mm2,Transistor_count_2.csv
+"Itanium 2 McKinley (64-bit, large cache)",220000000,2002,Intel,180 nm,421 mm2,Transistor_count_2.csv
+R300,107000000,2002,ATI,150 nm,218 mm2,Transistor_count_3.csv
+NV31,80000000,2003,Nvidia,130 nm,121 mm2,Transistor_count_3.csv
+NV30,125000000,2003,Nvidia,130 nm,199 mm2,Transistor_count_3.csv
+"Barton (32-bit, large cache)",54300000,2003,AMD,130 nm,101 mm2,Transistor_count_2.csv
+R360,117000000,2003,ATI,150 nm,218 mm2,Transistor_count_3.csv
+NV35/38,135000000,2003,Nvidia,130 nm,207 mm2,Transistor_count_3.csv
+NV34,45000000,2003,Nvidia,150 nm,124 mm2,Transistor_count_3.csv
+"DEC Alpha 21364 (64-bit, 946-pin, SIMD, very large caches)",152000000,2003,DEC,180 nm,397 mm2,Transistor_count_2.csv
+NV36,82000000,2003,Nvidia,130 nm,133 mm2,Transistor_count_3.csv
+"AMD K8 (64-bit, large cache)",105900000,2003,AMD,130 nm,193 mm2,Transistor_count_2.csv
+Pentium M Banias (32-bit),77000000,2003,Intel,130 nm,83 mm2,Transistor_count_2.csv
+Itanium 2 Madison 6M (64-bit),410000000,2003,Intel,130 nm,374 mm2,Transistor_count_2.csv
+R480,160000000,2004,ATI,130 nm,297 mm2,Transistor_count_3.csv
+NV44,75000000,2004,Nvidia,130 nm,110 mm2,Transistor_count_3.csv
+NV34b,45000000,2004,Nvidia,140 nm,91 mm2,Transistor_count_3.csv
+"Pentium 4 Prescott (32-bit, large cache)",112000000,2004,Intel,90 nm,110 mm2,Transistor_count_2.csv
+Pentium M Dothan (32-bit),144000000,2004,Intel,90 nm,87 mm2,Transistor_count_2.csv
+,1000000000,2004,Xilinx,90 nm,,Transistor_count_4.csv
+?,8589934592,2004,Samsung,60 nm,?,Transistor_count_6.csv
+NV40,222000000,2004,Nvidia,130 nm,305 mm2,Transistor_count_3.csv
+Itanium 2 (64-bit;9 MB cache),592000000,2004,Intel,130 nm,432 mm2,Transistor_count_2.csv
+"SPARC64 V+ (64-bit, large cache)",400000000,2004,Fujitsu,90 nm,294 mm2,Transistor_count_2.csv
+RV515,107000000,2005,ATI,90 nm,100 mm2,Transistor_count_3.csv
+R520,321000000,2005,ATI,90 nm,288 mm2,Transistor_count_3.csv
+RSX Reality Synthesizer,300000000,2005,"Nvidia, Sony",90 nm,186 mm2,Transistor_count_3.csv
+Xenos,232000000,2005,ATI,90 nm,182 mm2,Transistor_count_3.csv
+NV43,146000000,2005,Nvidia,110 nm,154 mm2,Transistor_count_3.csv
+NV41,222000000,2005,Nvidia,110 nm,225 mm2,Transistor_count_3.csv
+RV530,157000000,2005,ATI,90 nm,150 mm2,Transistor_count_3.csv
+NV42,198000000,2005,Nvidia,110 nm,222 mm2,Transistor_count_3.csv
+G70,303000000,2005,Nvidia,110 nm,333 mm2,Transistor_count_3.csv
+"Xenon (64-bit, 128-bit SIMD, large cache)",165000000,2005,IBM,90 nm,?,Transistor_count_2.csv
+"Pentium 4 Prescott-2M (32-bit, large cache)",169000000,2005,Intel,90 nm,143 mm2,Transistor_count_2.csv
+"Cell (32-bit, cache)",250000000,2005,Sony/IBM/Toshiba,90 nm,221 mm2,Transistor_count_2.csv
+"Pentium D Smithfield (64-bit, large cache)",228000000,2005,Intel,90 nm,206 mm2,Transistor_count_2.csv
+?,17179869184,2005,Samsung,50 nm,?,Transistor_count_6.csv
+?,34359738368,2006,Samsung,40 nm,?,Transistor_count_6.csv
+"Pentium 4 Cedar Mill (32-bit, large cache)",184000000,2006,Intel,65 nm,90 mm2,Transistor_count_2.csv
+"Pentium D Presler (64-bit, large cache)",362000000,2006,Intel,65 nm,162 mm2,Transistor_count_2.csv
+"Core 2 Duo Conroe (dual-core 64-bit, large caches)",291000000,2006,Intel,65 nm,143 mm2,Transistor_count_2.csv
+"Dual-core Itanium 2 (64-bit, SIMD, large caches)",1700000000,2006,Intel,90 nm,596 mm2,Transistor_count_2.csv
+R580,384000000,2006,ATI,90 nm,352 mm2,Transistor_count_3.csv
+G71,278000000,2006,Nvidia,90 nm,196 mm2,Transistor_count_3.csv
+,1100000000,2006,Xilinx,65 nm,,Transistor_count_4.csv
+G80,681000000,2006,Nvidia,90 nm,480 mm2,Transistor_count_3.csv
+RV560,330000000,2006,ATI,80 nm,230 mm2,Transistor_count_3.csv
+G72,112000000,2006,Nvidia,90 nm,81 mm2,Transistor_count_3.csv
+G73,177000000,2006,Nvidia,90 nm,125 mm2,Transistor_count_3.csv
+G86 Tesla,210000000,2007,Nvidia,80 nm,127 mm2,Transistor_count_3.csv
+G84 Tesla,289000000,2007,Nvidia,80 nm,169 mm2,Transistor_count_3.csv
+RV610,180000000,2007,ATI,65 nm,85 mm2,Transistor_count_3.csv
+R600,700000000,2007,ATI,80 nm,420 mm2,Transistor_count_3.csv
+G92,754000000,2007,Nvidia,65 nm,324 mm2,Transistor_count_3.csv
+RV630,390000000,2007,ATI,65 nm,153 mm2,Transistor_count_3.csv
+"AMD K10 quad-core 2M L3 (64-bit, large caches)",463000000,2007,AMD,65 nm,283 mm2,Transistor_count_2.csv
+"ARM Cortex-A9 (32-bit, (optional) SIMD, caches)",26000000,2007,ARM,45 nm,31 mm2,Transistor_count_2.csv
+"Core 2 Duo Wolfdale (dual-core 64-bit, SIMD, caches)",411000000,2007,Intel,45 nm,107 mm2,Transistor_count_2.csv
+"POWER6 (64-bit, large caches)",789000000,2007,IBM,65 nm,341 mm2,Transistor_count_2.csv
+"Core 2 Duo Allendale (dual-core 64-bit, SIMD, large caches)",169000000,2007,Intel,65 nm,111 mm2,Transistor_count_2.csv
+Uniphier,250000000,2007,Matsushita,45 nm,?,Transistor_count_2.csv
+"SPARC64 VI (64-bit, SIMD, large caches)",540000000,2007,Fujitsu,90 nm,421 mm2,Transistor_count_2.csv
+THGAM,128000000000,2007,Toshiba,56 nm,252 mm2,Transistor_count_6.csv
+RV790,959000000,2008,ATI,55 nm,282 mm2,Transistor_count_3.csv
+RV770,956000000,2008,ATI,55 nm,256 mm2,Transistor_count_3.csv
+G94b Tesla,505000000,2008,Nvidia,55 nm,196 mm2,Transistor_count_3.csv
+G92b Tesla,754000000,2008,Nvidia,55 nm,260 mm2,Transistor_count_3.csv
+GT200b Tesla,1400000000,2008,Nvidia,55 nm,470 mm2,Transistor_count_3.csv
+G96b Tesla,314000000,2008,Nvidia,55 nm,121 mm2,Transistor_count_3.csv
+THGBM,256000000000,2008,Toshiba,43 nm,353 mm2,Transistor_count_6.csv
+?,8589934592,2008,Samsung,50 nm,?,Transistor_count_5.csv
+RV670,666000000,2008,ATI,55 nm,192 mm2,Transistor_count_3.csv
+RV730,514000000,2008,ATI,55 nm,146 mm2,Transistor_count_3.csv
+?,17179869184,2008,Samsung,50 nm,?,Transistor_count_5.csv
+RV635,378000000,2008,ATI,55 nm,135 mm2,Transistor_count_3.csv
+"Core 2 Duo Wolfdale 3M (dual-core 64-bit, SIMD, large caches)",230000000,2008,Intel,45 nm,83 mm2,Transistor_count_2.csv
+"Core i7 (quad-core 64-bit, SIMD, large caches)",731000000,2008,Intel,45 nm,263 mm2,Transistor_count_2.csv
+"AMD K10 quad-core 6M L3 (64-bit, SIMD, large caches)",758000000,2008,AMD,45 nm,258 mm2,Transistor_count_2.csv
+"Atom (32-bit, large cache)",47000000,2008,Intel,45 nm,24 mm2,Transistor_count_2.csv
+,2500000000,2008,Altera,40 nm,,Transistor_count_4.csv
+RV710,242000000,2008,ATI,55 nm,73 mm2,Transistor_count_3.csv
+"SPARC64 VII (64-bit, SIMD, large caches)",600000000,2008,Fujitsu,65 nm,445 mm2,Transistor_count_2.csv
+G94 Tesla,505000000,2008,Nvidia,65 nm,240 mm2,Transistor_count_3.csv
+G96 Tesla,314000000,2008,Nvidia,65 nm,144 mm2,Transistor_count_3.csv
+RV620,181000000,2008,ATI,55 nm,67 mm2,Transistor_count_3.csv
+GT200,1400000000,2008,Nvidia,65 nm,576 mm2,Transistor_count_3.csv
+G98 Tesla,210000000,2008,Nvidia,65 nm,86 mm2,Transistor_count_3.csv
+"Six-core Xeon 7400 (64-bit, SIMD, large caches)",1900000000,2008,Intel,45 nm,503 mm2,Transistor_count_2.csv
+GT218 Tesla,260000000,2009,Nvidia,40 nm,57 mm2,Transistor_count_3.csv
+GT216 Tesla,486000000,2009,Nvidia,40 nm,100 mm2,Transistor_count_3.csv
+GT215 Tesla,727000000,2009,Nvidia,40 nm,144 mm2,Transistor_count_3.csv
+RV740,826000000,2009,ATI,40 nm,137 mm2,Transistor_count_3.csv
+Cypress RV870,2154000000,2009,ATI,40 nm,334 mm2,Transistor_count_3.csv
+Juniper RV840,1040000000,2009,ATI,40 nm,166 mm2,Transistor_count_3.csv
+"Six-core Opteron 2400 (64-bit, SIMD, large caches)",904000000,2009,AMD,45 nm,346 mm2,Transistor_count_2.csv
+"SPARC64 VIIIfx (64-bit, SIMD, large caches)",760000000,2009,Fujitsu,45 nm,513 mm2,Transistor_count_2.csv
+"SPARC T3 (16-core 64-bit, SIMD, large caches)",1000000000,2010,Sun/Oracle,40 nm,377 mm2,Transistor_count_2.csv
+Six-core Core i7 (Gulftown),1170000000,2010,Intel,32 nm,240 mm2,Transistor_count_2.csv
+THGBM2,256000000000,2010,Toshiba,32 nm,374 mm2,Transistor_count_6.csv
+"POWER7 32M L3 (8-core 64-bit, SIMD, large caches)",1200000000,2010,IBM,45 nm,567 mm2,Transistor_count_2.csv
+"Quad-core Itanium Tukwila (64-bit, SIMD, large caches)",2000000000,2010,Intel,65 nm,699 mm2,Transistor_count_2.csv
+"Xeon Nehalem-EX (8-core 64-bit, SIMD, large caches)",2300000000,2010,Intel,45 nm,684 mm2,Transistor_count_2.csv
+GF106 Fermi,1170000000,2010,Nvidia,40 nm,238 mm2,Transistor_count_3.csv
+GF100 Fermi,3200000000,2010,Nvidia,40 nm,526 mm2,Transistor_count_3.csv
+Barts RV940,1700000000,2010,AMD,40 nm,255 mm2,Transistor_count_3.csv
+Cayman RV970,2640000000,2010,AMD,40 nm,389 mm2,Transistor_count_3.csv
+Cedar RV810,292000000,2010,AMD,40 nm,59 mm2,Transistor_count_3.csv
+Redwood RV830,627000000,2010,AMD (ATI),40 nm,104 mm2,Transistor_count_3.csv
+"Quad-core z196 (64-bit, very large caches)",1400000000,2010,IBM,45 nm,512 mm2,Transistor_count_2.csv
+GF110 Fermi,3000000000,2010,Nvidia,40 nm,520 mm2,Transistor_count_3.csv
+"Six-core Core i7/8-core Xeon E5
+ (Sandy Bridge-E/EP) (64-bit, SIMD, large caches)",2270000000,2011,Intel,32 nm,434 mm2,Transistor_count_2.csv
+,3800000000,2011,Altera,28 nm,,Transistor_count_4.csv
+,6800000000,2011,Xilinx,28 nm,,Transistor_count_4.csv
+"Xeon Westmere-EX (10-core 64-bit, SIMD, large caches)",2600000000,2011,Intel,32 nm,512 mm2,Transistor_count_2.csv
+"SPARC64 IXfx (64-bit, SIMD, large caches)",1870000000,2011,Fujitsu,40 nm,484 mm2,Transistor_count_2.csv
+"Quad-core + GPU Core i7 (64-bit, SIMD, large caches)",1160000000,2011,Intel,32 nm,216 mm2,Transistor_count_2.csv
+KLMCG8GE4A,256000000000,2011,Samsung,?,192 mm2,Transistor_count_6.csv
+GF104 Fermi,1950000000,2011,Nvidia,40 nm,332 mm2,Transistor_count_3.csv
+Caicos RV910,370000000,2011,AMD,40 nm,67 mm2,Transistor_count_3.csv
+GF119 Fermi,292000000,2011,Nvidia,40 nm,79 mm2,Transistor_count_3.csv
+Tahiti GCN1,4312711873,2011,AMD,28 nm,365 mm2,Transistor_count_3.csv
+Turks RV930,716000000,2011,AMD,40 nm,118 mm2,Transistor_count_3.csv
+GF108 Fermi,585000000,2011,Nvidia,40 nm,116 mm2,Transistor_count_3.csv
+Cape Verde GCN1,1500000000,2012,AMD,28 nm,123 mm2,Transistor_count_3.csv
+GK110 Kepler,7080000000,2012,Nvidia,28 nm,561 mm2,Transistor_count_3.csv
+GK104 Kepler,3540000000,2012,Nvidia,28 nm,294 mm2,Transistor_count_3.csv
+GK106 Kepler,2540000000,2012,Nvidia,28 nm,221 mm2,Transistor_count_3.csv
+GK107 Kepler,1270000000,2012,Nvidia,28 nm,118 mm2,Transistor_count_3.csv
+"Atom ""Medfield"" (64-bit)",432000000,2012,Intel,32 nm,64 mm2,Transistor_count_2.csv
+Pitcairn GCN1,2800000000,2012,AMD,28 nm,212 mm2,Transistor_count_3.csv
+"SPARC64 X (64-bit, SIMD, caches)",2990000000,2012,Fujitsu,28 nm,600 mm2,Transistor_count_2.csv
+"AMD Bulldozer (8-core 64-bit, SIMD, caches)",1200000000,2012,AMD,32 nm,315 mm2,Transistor_count_2.csv
+"Quad-core + GPU AMD Trinity (64-bit, SIMD, caches)",1303000000,2012,AMD,32 nm,246 mm2,Transistor_count_2.csv
+"Quad-core + GPU Core i7 Ivy Bridge (64-bit, SIMD, caches)",1400000000,2012,Intel,22 nm,160 mm2,Transistor_count_2.csv
+"POWER7+ (8-core 64-bit, SIMD, 80 MB L3 cache)",2100000000,2012,IBM,32 nm,567 mm2,Transistor_count_2.csv
+"Six-core zEC12 (64-bit, SIMD, large caches)",2750000000,2012,IBM,32 nm,597 mm2,Transistor_count_2.csv
+"Itanium Poulson (8-core 64-bit, SIMD, caches)",3100000000,2012,Intel,32 nm,544 mm2,Transistor_count_2.csv
+"Xeon Phi (61-core 32-bit, 512-bit SIMD, caches)",5000000000,2012,Intel,22 nm,720 mm2,Transistor_count_2.csv
+"Xbox One main SoC (64-bit, SIMD, caches)",5000000000,2013,Microsoft/AMD,28 nm,363 mm2,Transistor_count_2.csv
+GK208 Kepler,1020000000,2013,Nvidia,28 nm,79 mm2,Transistor_count_3.csv
+Oland GCN1,1040000000,2013,AMD,28 nm,90 mm2,Transistor_count_3.csv
+Bonaire GCN2,2080000000,2013,AMD,28 nm,160 mm2,Transistor_count_3.csv
+Durango (Xbox One),4800000000,2013,AMD,28 nm,375 mm2,Transistor_count_3.csv
+Hawaii GCN2,6300000000,2013,AMD,28 nm,438 mm2,Transistor_count_3.csv
+"Apple A7 (dual-core 64/32-bit ARM64, ""mobile SoC"", SIMD, caches)",1000000000,2013,Apple,28 nm,102 mm2,Transistor_count_2.csv
+"Six-core Core i7 Ivy Bridge E (64-bit, SIMD, caches)",1860000000,2013,Intel,22 nm,256 mm2,Transistor_count_2.csv
+"POWER8 (12-core 64-bit, SIMD, caches)",4200000000,2013,IBM,22 nm,650 mm2,Transistor_count_2.csv
+"Apple A8 (dual-core 64/32-bit ARM64 ""mobile SoC"", SIMD, caches)",2000000000,2014,Apple,20 nm,89 mm2,Transistor_count_2.csv
+"Core i7 Haswell-E (8-core 64-bit, SIMD, caches)",2600000000,2014,Intel,22 nm,355 mm2,Transistor_count_2.csv
+"Xeon Ivy Bridge-EX (15-core 64-bit, SIMD, caches)",4310000000,2014,Intel,22 nm,541 mm2,Transistor_count_2.csv
+"Xeon Haswell-E5 (18-core 64-bit, SIMD, caches)",5560000000,2014,Intel,22 nm,661 mm2,Transistor_count_2.csv
+"Apple A8X (tri-core 64/32-bit ARM64 ""mobile SoC"", SIMD, caches)",3000000000,2014,Apple,20 nm,128 mm2,Transistor_count_2.csv
+,5300000000,2014,Altera,20 nm,,Transistor_count_4.csv
+"Quad-core + GPU Core i7 Haswell (64-bit, SIMD, caches)",1400000000,2014,Intel,22 nm,177 mm2,Transistor_count_2.csv
+GM204 Maxwell,5200000000,2014,Nvidia,28 nm,398 mm2,Transistor_count_3.csv
+GM206 Maxwell,2940000000,2014,Nvidia,28 nm,228 mm2,Transistor_count_3.csv
+GM107 Maxwell,1870000000,2014,Nvidia,28 nm,148 mm2,Transistor_count_3.csv
+Tonga GCN3,5000000000,2014,AMD,28 nm,366 mm2,Transistor_count_3.csv
+"SPARC M7 (32-core 64-bit, SIMD, caches)",10000000000,2015,Oracle,20 nm,?,Transistor_count_2.csv
+,20000000000,2015,Xilinx,20 nm,,Transistor_count_4.csv
+IBM z13 Storage Controller,7100000000,2015,IBM,22 nm,678 mm2,Transistor_count_2.csv
+"IBM z13 (64-bit, caches)",3990000000,2015,IBM,22 nm,678 mm2,Transistor_count_2.csv
+Fiji GCN3,8900000000,2015,AMD,28 nm,596 mm2,Transistor_count_3.csv
+"Apple A9 (dual-core 64/32-bit ARM64 ""mobile SoC"", SIMD, caches)",2000000000,2015,Apple,"14 nm
+(Samsung)","96 mm2
+(Samsung)",Transistor_count_2.csv
+"Dual-core + GPU Iris Core i7 Broadwell-U (64-bit, SIMD, caches)",1900000000,2015,Intel,14 nm,133 mm2,Transistor_count_2.csv
+"Quad-core + GPU GT2 Core i7 Skylake K (64-bit, SIMD, caches)",1750000000,2015,Intel,14 nm,122 mm2,Transistor_count_2.csv
+GM200 Maxwell,8000000000,2015,Nvidia,28 nm,601 mm2,Transistor_count_3.csv
+"Apple A9X (dual core 64/32-bit ARM64 ""mobile SoC"", SIMD, caches)",3000000000,2015,Apple,16 nm,143.9 mm2,Transistor_count_2.csv
+"Xeon Phi (72-core 64-bit, 512-bit SIMD, caches)",8000000000,2016,Intel,14 nm,683 mm2,Transistor_count_2.csv
+"Qualcomm Snapdragon 835 (octa-core 64/32-bit ARM64 ""mobile SoC"", SIMD, caches)",3000000000,2016,Qualcomm,10 nm,72.3 mm2,Transistor_count_2.csv
+"Core i7 Broadwell-E (10-core 64-bit, SIMD, caches)",3200000000,2016,Intel,14 nm,246 mm2,Transistor_count_2.csv
+"Apple A10 Fusion (quad-core 64/32-bit ARM64 ""mobile SoC"", SIMD, caches)",3300000000,2016,Apple,16 nm,125 mm2,Transistor_count_2.csv
+"HiSilicon Kirin 960 (octa-core 64/32-bit ARM64 ""mobile SoC"", SIMD, caches)",4000000000,2016,Huawei,16 nm,110.00 mm2,Transistor_count_2.csv
+"Xeon Broadwell-E5 (22-core 64-bit, SIMD, caches)",7200000000,2016,Intel,14 nm,456 mm2,Transistor_count_2.csv
+"Zip CPU (32-bit, for FPGAs)",12866,2016,Gisselquist Technology,?,?,Transistor_count_2.csv
+Durango 2 (Xbox One S),5000000000,2016,AMD,16 nm,240 mm2,Transistor_count_3.csv
+GP104 Pascal,7200000000,2016,Nvidia,16 nm,314 mm2,Transistor_count_3.csv
+Neo (PlayStation 4 Pro),5700000000,2016,AMD,16 nm,325 mm2,Transistor_count_3.csv
+Ellesmere/Polaris 10 GCN4,5700000000,2016,AMD,14 nm,232 mm2,Transistor_count_3.csv
+Baffin/Polaris 11 GCN4,3000000000,2016,AMD,14 nm,123 mm2,Transistor_count_3.csv
+?,34359738368,2016,Samsung,20 nm,?,Transistor_count_5.csv
+GP100 Pascal,15300000000,2016,Nvidia,16 nm,610 mm2,Transistor_count_3.csv
+GP102 Pascal,11800000000,2016,Nvidia,16 nm,471 mm2,Transistor_count_3.csv
+GP106 Pascal,4400000000,2016,Nvidia,16 nm,200 mm2,Transistor_count_3.csv
+GP107 Pascal,3300000000,2016,Nvidia,14 nm,132 mm2,Transistor_count_3.csv
+KLUFG8R1EM,1365333333504,2017,Samsung,?,150 mm2,Transistor_count_6.csv
+Vega 10 GCN5,12500000000,2017,AMD,14 nm,484 mm2,Transistor_count_3.csv
+Scorpio (Xbox One X),6600000000,2017,AMD,16 nm,367 mm2,Transistor_count_3.csv
+"Qualcomm Snapdragon 850  (octa-core 64/32-bit ARM64 ""mobile SoC"", SIMD, caches)",5300000000,2017,Qualcomm,10 nm,94 mm2,Transistor_count_2.csv
+"Xbox One X (Project Scorpio) main SoC (64-bit, SIMD, caches)",7000000000,2017,Microsoft/AMD,16 nm,360 mm2,Transistor_count_2.csv
+Lexa/Polaris 12 GCN4,2200000000,2017,AMD,14 nm,101 mm2,Transistor_count_3.csv
+GP108 Pascal,1850000000,2017,Nvidia,14 nm,74 mm2,Transistor_count_3.csv
+"Xeon Platinum 8180 (28-core 64-bit, SIMD, caches)",8000000000,2017,Intel,14 nm,?,Transistor_count_2.csv
+"HiSilicon Kirin 970 (octa-core 64/32-bit ARM64 ""mobile SoC"", SIMD, caches)",5500000000,2017,Huawei,10 nm,96.72 mm2,Transistor_count_2.csv
+IBM z14 Storage Controller (64-bit),9700000000,2017,IBM,14 nm,696 mm2,Transistor_count_2.csv
+"IBM z14 (64-bit, SIMD, caches)",6100000000,2017,IBM,14 nm,696 mm2,Transistor_count_2.csv
+"POWER9 (64-bit, SIMD, caches)",8000000000,2017,IBM,14 nm,695 mm2,Transistor_count_2.csv
+"Freedom U500 Base Platform Chip (E51, 4×U54) RISC-V (64-bit, caches)",250000000,2017,SiFive,28 nm,~30 mm2,Transistor_count_2.csv
+"SPARC64 XII (12-core 64-bit, SIMD, caches)",5450000000,2017,Fujitsu,20 nm,795 mm2,Transistor_count_2.csv
+"Apple A10X Fusion (hexa-core 64/32-bit ARM64 ""mobile SoC"", SIMD, caches)",4300000000,2017,Apple,10 nm,96.40 mm2,Transistor_count_2.csv
+"Centriq 2400 (64/32-bit, SIMD, caches)",18000000000,2017,Qualcomm,10 nm,398 mm2,Transistor_count_2.csv
+"AMD Epyc (32-core 64-bit, SIMD, caches)",19200000000,2017,AMD,14 nm,768 mm2,Transistor_count_2.csv
+?,68719476736,2017,Samsung,20 nm,?,Transistor_count_5.csv
+"Ryzen 5 1600 X Ryzen (64-bit, SIMD, caches)",4800000000,2017,AMD,14 nm,213 mm2,Transistor_count_2.csv
+"Ryzen 5 1600 Ryzen (64-bit, SIMD, caches)",4800000000,2017,AMD,14 nm,213 mm2,Transistor_count_2.csv
+"Zeppelin SoC Ryzen (64-bit, SIMD, caches)",4800000000,2017,AMD,14 nm,192 mm2,Transistor_count_2.csv
+"Apple A11 Bionic (hexa-core 64/32-bit ARM64 ""mobile SoC"", SIMD, caches)",4300000000,2017,Apple,10 nm,89.23 mm2,Transistor_count_2.csv
+"Qualcomm Snapdragon 845 (octa-core 64/32-bit ARM64 ""mobile SoC"", SIMD, caches)",5300000000,2017,Qualcomm,10 nm,94 mm2,Transistor_count_2.csv
+GV100 Volta,21100000000,2017,Nvidia,12 nm,815 mm2,Transistor_count_3.csv
+?,137438953472,2018,Samsung,10 nm,?,Transistor_count_5.csv
+Colossus GC2,23600000000,2018,Graphcore,16 nm,~800 mm2,Transistor_count_10.csv
+Tegra Xavier SoC (64/32-bit),9000000000,2018,Nvidia,12 nm,350 mm2,Transistor_count_2.csv
+Vega 20 GCN5,13230000000,2018,AMD,7 nm,331 mm2,Transistor_count_3.csv
+TU104 Turing,13600000000,2018,Nvidia,12 nm,545 mm2,Transistor_count_3.csv
+TU102 Turing,18600000000,2018,Nvidia,12 nm,754 mm2,Transistor_count_3.csv
+"HiSilicon Kirin 710 (octa-core ARM64 ""mobile SoC"", SIMD, caches)",5500000000,2018,Huawei,12 nm,?,Transistor_count_2.csv
+"Apple A12 Bionic (hexa-core ARM64 ""mobile SoC"", SIMD, caches)",6900000000,2018,Apple,7 nm,83.27 mm2,Transistor_count_2.csv
+"HiSilicon Kirin 980 (octa-core ARM64 ""mobile SoC"", SIMD, caches)",6900000000,2018,Huawei,7 nm,74.13 mm2,Transistor_count_2.csv
+"Qualcomm Snapdragon 8cx / SCX8180 (octa-core ARM64 ""mobile SoC"", SIMD, caches)",8500000000,2018,Qualcomm,7 nm,112 mm2,Transistor_count_2.csv
+"Apple A12X Bionic (octa-core 64/32-bit ARM64 ""mobile SoC"", SIMD, caches)",10000000000,2018,Apple,7 nm,122 mm2,Transistor_count_2.csv
+"Fujitsu A64FX (64/32-bit, SIMD, caches)",8786000000,2018,Fujitsu,7 nm,?,Transistor_count_2.csv
+TU106 Turing,10800000000,2018,Nvidia,12 nm,445 mm2,Transistor_count_3.csv
+,43300000000,2019,Intel,14 nm,"1,400 mm2",Transistor_count_4.csv
+HiSilicon Kirin 990 4G,8000000000,2019,Huawei,7 nm,90.00 mm2,Transistor_count_2.csv
+"Apple A13 (hexa-core 64-bit ARM64 ""mobile SoC"", SIMD, caches)",8500000000,2019,Apple,7 nm,98.48 mm2,Transistor_count_2.csv
+"IBM z15 CP chip (12 cores, 256 MB L3 cache)",9200000000,2019,IBM,14 nm,696 mm2,Transistor_count_2.csv
+IBM z15 SC chip (960 MB L4 cache),12200000000,2019,IBM,14 nm,696 mm2,Transistor_count_2.csv
+"AMD Ryzen 9 3900X (64-bit, SIMD, caches, I/O die)",9890000000,2019,AMD,7 & 12 nm (TSMC),273 mm2,Transistor_count_2.csv
+HiSilicon Kirin 990 5G,10300000000,2019,Huawei,7 nm,113.31 mm2,Transistor_count_2.csv
+"AWS Graviton2 (64-bit, 64-core ARM-based, SIMD, caches)",30000000000,2019,Amazon,7 nm,?,Transistor_count_2.csv
+"AMD Epyc Rome (64-bit, SIMD, caches)",39540000000,2019,AMD,7 & 12 nm (TSMC),"1,008 mm2",Transistor_count_2.csv
+Wafer Scale Engine,1200000000000,2019,Cerebras,16 nm,"46,225 mm2",Transistor_count_10.csv
+"AMD Ryzen 7 3700X (64-bit, SIMD, caches, I/O die)",5990000000,2019,AMD,7 & 12 nm (TSMC),199 (74+125) mm2,Transistor_count_2.csv
+TU116 Turing,6600000000,2019,Nvidia,12 nm,284 mm2,Transistor_count_3.csv
+"Qualcomm Snapdragon 855 (octa-core 64/32-bit ARM64 ""mobile SoC"", SIMD, caches)",6700000000,2019,Qualcomm,7 nm,73 mm²,Transistor_count_2.csv
+,37000000000,2019,Xilinx,7 nm,,Transistor_count_4.csv
+eUFS (1 TB),2048000000000,2019,Samsung,?,150 mm2,Transistor_count_6.csv
+TU117 Turing,4700000000,2019,Nvidia,12 nm,200 mm2,Transistor_count_3.csv
+Navi 10 RDNA1,10300000000,2019,AMD,7 nm,251 mm2,Transistor_count_3.csv
+Navi 14 RDNA1,6400000000,2019,AMD,7 nm,158 mm2,Transistor_count_3.csv
+,35000000000,2020,Xilinx,16 nm,900 mm2,Transistor_count_4.csv
+"TI Jacinto TDA4VM (ARM A72, DSP, SRAM)",3500000000,2020,Texas Instruments,16 nm,?,Transistor_count_2.csv
+"Apple A14 Bionic (hexa-core 64-bit ARM64 ""mobile SoC"", SIMD, caches)",11800000000,2020,Apple,5 nm,88 mm2,Transistor_count_2.csv
+Navi 21 RDNA2,26800000000,2020,AMD,7 nm,520 mm²,Transistor_count_3.csv
+"Apple M1 (octa-core 64-bit ARM64 SoC, SIMD, caches)",16000000000,2020,Apple,5 nm,119 mm2,Transistor_count_2.csv
+"Qualcomm Snapdragon 865 (octa-core 64/32-bit ARM64 ""mobile SoC"", SIMD, caches)",10300000000,2020,Qualcomm,7 nm,83.54 mm2,Transistor_count_2.csv
+GA104 Ampere,17400000000,2020,Nvidia,8 nm,392 mm²,Transistor_count_3.csv
+Wafer Scale Engine 2,2600000000000,2020,Cerebras,7 nm,"46,225 mm2",Transistor_count_10.csv
+GA102 Ampere,28300000000,2020,Nvidia,8 nm,628 mm2,Transistor_count_3.csv
+GA100 Ampere,54200000000,2020,Nvidia,7 nm,826 mm2,Transistor_count_3.csv
+Arcturus CDNA1,25600000000,2020,AMD,7 nm,750 mm2,Transistor_count_3.csv
+HiSilicon Kirin 9000,15300000000,2020,Huawei,5 nm,114 mm2,Transistor_count_2.csv
+Dimensity 9000 (ARM64 SoC),15300000000,2021,Mediatek,4 nm (TSMC N4),?,Transistor_count_2.csv
+Power10 dual-chip module (30 SMT8 cores or 60 SMT4 cores),36000000000,2021,IBM,7 nm,"1,204 mm2",Transistor_count_2.csv
+"Apple M1 Max (10-core, 64-bit)",57000000000,2021,Apple,5 nm,420.2 mm2,Transistor_count_2.csv
+Apple A15,15000000000,2021,Apple,5 nm,107.68 mm2,Transistor_count_2.csv
+Aldebaran CDNA2,58200000000,2021,AMD,6 nm,?,Transistor_count_3.csv
+Navi 23 RDNA2,11060000000,2021,AMD,7 nm,237 mm²,Transistor_count_3.csv
+Navi 22 RDNA2,17200000000,2021,AMD,7 nm,335 mm²,Transistor_count_3.csv
+GA106 Ampere,13250000000,2021,Nvidia,8 nm,276 mm²,Transistor_count_3.csv
+,92000000000,2021,Xilinx,7 nm,,Transistor_count_4.csv
+"AMD Ryzen 7 5800H (64-bit, SIMD, caches, I/O and GPU)",10700000000,2021,AMD,7 nm,180 mm2,Transistor_count_2.csv
+"Apple M1 Pro (10-core, 64-bit)",33700000000,2021,Apple,5 nm,245 mm2,Transistor_count_2.csv
+NVLink4 NVSwitch,25100000000,2022,Nvidia,N4 (4 nm),294 mm2,Transistor_count_10.csv
+"IBM Telum dual-chip module (2×8 cores, 2×256 MB cache)",45000000000,2022,IBM,7 nm (Samsung),"1,060 mm2",Transistor_count_2.csv
+"Apple M1 Ultra (dual-chip module, 2×10 cores)",114000000000,2022,Apple,5 nm,840.5 mm2,Transistor_count_2.csv
+"AMD Epyc 7773X (Milan-X) (multi-chip module, 64 cores, 768 MB L3 cache)",26000000000,2022,AMD,7 & 12 nm (TSMC),"1,352 mm2 (Milan + 8×36)",Transistor_count_2.csv
+"Apple M2 (deca-core 64-bit ARM64 SoC, SIMD, caches)",20000000000,2022,Apple,5 nm,?,Transistor_count_2.csv
+?,5333333333333,2022,Micron,?,68.5 mm2 (memory array),Transistor_count_6.csv
+Dimensity 9200 (ARM64 SoC),17000000000,2022,Mediatek,4 nm (TSMC N4P),?,Transistor_count_2.csv
+?,333333333333,2022,Micron,?,68.5 mm2 (memory array),Transistor_count_6.csv
+AD104 Ada Lovelace,35800000000,2022,Nvidia,4 nm,294.5 mm²,Transistor_count_3.csv
+AD103 Ada Lovelace,45900000000,2022,Nvidia,4 nm,378.6 mm²,Transistor_count_3.csv
+AD102 Ada Lovelace,76300000000,2022,Nvidia,4 nm,608.4 mm²,Transistor_count_3.csv
+GH100 Hopper,80000000000,2022,Nvidia,4 nm,814 mm²,Transistor_count_3.csv
+Navi 24 RDNA2,5400000000,2022,AMD,6 nm,107 mm²,Transistor_count_3.csv
+Apple A16 (ARM64 SoC),16000000000,2022,Apple,4 nm,?,Transistor_count_2.csv
+Navi 31 RDNA3,58000000000,2022,AMD,5 nm (GCD) 6 nm (MCD),531 mm² (MCM) 306 mm² (GCD) 6×37.5 mm² (MCD),Transistor_count_3.csv
+Sapphire Rapids quad-chip module (up to 60 cores and 112.5 MB of cache),4400000000048000000000,2023,Intel,Intel 7 (10 nm ESF),"1,600 mm2",Transistor_count_2.csv
+"Apple M2 Pro (12-core 64-bit ARM64 SoC, SIMD, caches)",40000000000,2023,Apple,5 nm,?,Transistor_count_2.csv
+"Apple M2 Max (12-core 64-bit ARM64 SoC, SIMD, caches)",67000000000,2023,Apple,5 nm,?,Transistor_count_2.csv
