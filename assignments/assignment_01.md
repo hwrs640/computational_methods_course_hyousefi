@@ -32,5 +32,13 @@ In this problem, you will explore the performance differences between row-major 
 
 ## Problem 4: Scaling and parallel computing (25 points)
 
+In this problem, you will use Dask arrays to compute the element-wise standard score (z-score normalization) of a large random array and measure the scaling behavior across 1-4 CPU cores. The z-score is computed as: z = (x - μ) / σ, where μ is the mean and σ is the standard deviation.
 
+Perform the following tasks:
 
+1. Create a function that generates a large Dask array filled with random numbers and computes the z-score normalized array.
+2. **Strong scaling**: Fix the array size (e.g., 20,000 x 20,000) and measure execution time using 1, 2, 3, and 4 cores. Calculate the speedup S(p) = T(1)/T(p) and efficiency E(p) = S(p)/p. Plot execution time vs number of cores.
+3. **Weak scaling**: Scale the array size proportionally with the number of cores (maintaining constant work per core). Measure execution time for 1-4 cores and plot the results.
+4. Discuss your results: Does your implementation achieve good scaling? What factors limit the speedup?
+
+**Hint**: Configure the number of workers using `dask.config.set(num_workers=n)` and use `.compute()` to trigger computation.
