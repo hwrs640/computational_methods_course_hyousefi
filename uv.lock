@@ -508,6 +508,7 @@ dependencies = [
     { name = "scikit-learn" },
     { name = "scipy" },
     { name = "seaborn" },
+    { name = "spotpy" },
     { name = "statsmodels" },
     { name = "tqdm" },
     { name = "xarray" },
@@ -541,6 +542,7 @@ requires-dist = [
     { name = "scikit-learn", specifier = ">=1.8.0" },
     { name = "scipy", specifier = ">=1.16.3" },
     { name = "seaborn", specifier = ">=0.13.2" },
+    { name = "spotpy", specifier = ">=1.6.6" },
     { name = "statsmodels", specifier = ">=0.14.6" },
     { name = "tqdm", specifier = ">=4.67.1" },
     { name = "xarray", specifier = ">=2025.12.0" },
@@ -3128,6 +3130,19 @@ source = { registry = "https://pypi.org/simple" }
 sdist = { url = "https://files.pythonhosted.org/packages/7b/ae/2d9c981590ed9999a0d91755b47fc74f74de286b0f5cee14c9269041e6c4/soupsieve-2.8.3.tar.gz", hash = "sha256:3267f1eeea4251fb42728b6dfb746edc9acaffc4a45b27e19450b676586e8349", size = 118627, upload-time = "2026-01-20T04:27:02.457Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/46/2c/1462b1d0a634697ae9e55b3cecdcb64788e8b7d63f54d923fcd0bb140aed/soupsieve-2.8.3-py3-none-any.whl", hash = "sha256:ed64f2ba4eebeab06cc4962affce381647455978ffc1e36bb79a545b91f45a95", size = 37016, upload-time = "2026-01-20T04:27:01.012Z" },
+]
+
+[[package]]
+name = "spotpy"
+version = "1.6.6"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "numpy" },
+    { name = "scipy" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/83/1e/ced15f5ce6e45b84351435a3ff1609c68410bc95d5de9f1a7fc0bfaf2c7a/spotpy-1.6.6.tar.gz", hash = "sha256:1b3089d4293d22cdd87b98f4cf569e36d206240d60dd382220a87bd4e3632bdc", size = 7123778, upload-time = "2025-02-18T09:55:48.129Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/a6/ed/83d4d43c6497da3b519d5e33d0f59bf8bb555303844664877908cbbaffb9/spotpy-1.6.6-py3-none-any.whl", hash = "sha256:41fd65592423c8c11f54684dcaa050c8b7dbaaa291a73738aed091b54d03a59d", size = 6987958, upload-time = "2025-02-18T09:55:45.206Z" },
 ]
 
 [[package]]
